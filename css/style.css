@@ -1,0 +1,23 @@
+body{
+  background-color:#1f1f14;
+  text-align:center;
+}
+.table1
+{
+  background-color:#afaf83;
+ width:185px;
+  margin:auto;
+  border-radius:0px 0px 10px 10px;
+}
+.button1{
+  margin:6px;
+}
+#display{
+  height:30px;
+  background-color:#afaf83;
+  margin:auto;
+  margin-top:150px;
+  width:185px;
+  align:center;
+  border-radius:10px 10px 0px 0px;
+}
